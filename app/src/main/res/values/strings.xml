@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Eat Me App</string>
+    <string name="slogan">Go Eat Application SI 17</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_admin">HomeAdmin</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="homepage">Selamat datang di restoran kami</string>
+    <string name="homepage2">Silahkan swipe layar ke kanan untuk mengakses menu lainnya</string>
+    <string name="homepage3">Apabila ingin mengetahui lebih lanjut tentang kami, silahkan press button dibawah ini</string>
+    <string name="title_activity_tentang">Tentang</string>
+    <string name="tentang">Restoran kami telah berdiri sejak tahun 2010. Awal mula kami mulai berjualan di Surabaya di satu tempat. Setelah beberapa bulan berjalan, kami mendirikan cabang
+    ditempat lain untuk memudahkan pelanggan mencapai toko kami.</string>
+</resources>
